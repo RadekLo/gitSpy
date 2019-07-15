@@ -1,0 +1,759 @@
+{
+	"status": 200,
+	"requests": {
+		"used": 5,
+		"available": 995,
+		"resets": "2019-08-01 00:00:00"
+	},
+	"holidays": [
+		{
+			"name": "New Year's Day",
+			"date": "2018-01-01",
+			"observed": "2018-01-01",
+			"public": true,
+			"country": "PL"
+		},
+		{
+			"name": "Epiphany",
+			"date": "2018-01-06",
+			"observed": "2018-01-06",
+			"public": true,
+			"country": "PL"
+		},
+		{
+			"name": "Grandmother's Day",
+			"date": "2018-01-21",
+			"observed": "2018-01-21",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Grandfather's Day",
+			"date": "2018-01-22",
+			"observed": "2018-01-22",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Public Employment Services Workers' Day",
+			"date": "2018-01-27",
+			"observed": "2018-01-27",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Traders' Day",
+			"date": "2018-02-02",
+			"observed": "2018-02-02",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Fat Thursday",
+			"date": "2018-02-08",
+			"observed": "2018-02-08",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Prison Service Day",
+			"date": "2018-02-08",
+			"observed": "2018-02-08",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Shrove Tuesday",
+			"date": "2018-02-13",
+			"observed": "2018-02-13",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Ash Wednesday",
+			"date": "2018-02-14",
+			"observed": "2018-02-14",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Valentine's Day",
+			"date": "2018-02-14",
+			"observed": "2018-02-14",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Cat's Day",
+			"date": "2018-02-17",
+			"observed": "2018-02-17",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Crime Victims Day",
+			"date": "2018-02-22",
+			"observed": "2018-02-22",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "National \"Cursed Soldiers\" Day",
+			"date": "2018-03-01",
+			"observed": "2018-03-01",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "International Women's Day",
+			"date": "2018-03-08",
+			"observed": "2018-03-08",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Day of Polish Statistics",
+			"date": "2018-03-09",
+			"observed": "2018-03-09",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "International Men's Day",
+			"date": "2018-03-10",
+			"observed": "2018-03-10",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "World Consumer Rights Day",
+			"date": "2018-03-15",
+			"observed": "2018-03-15",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Earth Day",
+			"date": "2018-03-20",
+			"observed": "2018-03-20",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "March Equinox",
+			"date": "2018-03-20",
+			"observed": "2018-03-20",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Truant's Day",
+			"date": "2018-03-21",
+			"observed": "2018-03-21",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Polish-Hungarian Friendship Day",
+			"date": "2018-03-23",
+			"observed": "2018-03-23",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "National Life Day",
+			"date": "2018-03-24",
+			"observed": "2018-03-24",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Maundy Thursday",
+			"date": "2018-03-29",
+			"observed": "2018-03-29",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Good Friday",
+			"date": "2018-03-30",
+			"observed": "2018-03-30",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Holy Saturday",
+			"date": "2018-03-31",
+			"observed": "2018-03-31",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Easter",
+			"date": "2018-04-01",
+			"observed": "2018-04-01",
+			"public": true,
+			"country": "PL"
+		},
+		{
+			"name": "Easter Monday",
+			"date": "2018-04-02",
+			"observed": "2018-04-02",
+			"public": true,
+			"country": "PL"
+		},
+		{
+			"name": "ABW Day",
+			"date": "2018-04-06",
+			"observed": "2018-04-06",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Katyn Memorial Day",
+			"date": "2018-04-13",
+			"observed": "2018-04-13",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Coma Patients' Day",
+			"date": "2018-04-18",
+			"observed": "2018-04-18",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Warsaw Ghetto Uprising",
+			"date": "2018-04-19",
+			"observed": "2018-04-19",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "International Mother Earth Day",
+			"date": "2018-04-22",
+			"observed": "2018-04-22",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Day for Safety and Health at Work",
+			"date": "2018-04-28",
+			"observed": "2018-04-28",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "International Workers' Memorial Day",
+			"date": "2018-04-28",
+			"observed": "2018-04-28",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "EU Accession Day",
+			"date": "2018-05-01",
+			"observed": "2018-05-01",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Labor Day",
+			"date": "2018-05-01",
+			"observed": "2018-05-01",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "State Holiday",
+			"date": "2018-05-01",
+			"observed": "2018-05-01",
+			"public": true,
+			"country": "PL"
+		},
+		{
+			"name": "Flag Day",
+			"date": "2018-05-02",
+			"observed": "2018-05-02",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Polish Diaspora Day",
+			"date": "2018-05-02",
+			"observed": "2018-05-02",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Constitution Day",
+			"date": "2018-05-03",
+			"observed": "2018-05-03",
+			"public": true,
+			"country": "PL"
+		},
+		{
+			"name": "Firefighters' Day",
+			"date": "2018-05-04",
+			"observed": "2018-05-04",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "International Firefighters' Day",
+			"date": "2018-05-04",
+			"observed": "2018-05-04",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Victory Day",
+			"date": "2018-05-08",
+			"observed": "2018-05-08",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Europe Day",
+			"date": "2018-05-09",
+			"observed": "2018-05-09",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Border Guard's Day",
+			"date": "2018-05-16",
+			"observed": "2018-05-16",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Pentecost",
+			"date": "2018-05-20",
+			"observed": "2018-05-20",
+			"public": true,
+			"country": "PL"
+		},
+		{
+			"name": "Mother's Day",
+			"date": "2018-05-26",
+			"observed": "2018-05-26",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Local Government's Day",
+			"date": "2018-05-27",
+			"observed": "2018-05-27",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "International Day of United Nations Peacekeepers",
+			"date": "2018-05-29",
+			"observed": "2018-05-29",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Veteran of Overseas Military Activities' Day",
+			"date": "2018-05-29",
+			"observed": "2018-05-29",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Foster Care Day",
+			"date": "2018-05-30",
+			"observed": "2018-05-30",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Feast of Corpus Christi",
+			"date": "2018-05-31",
+			"observed": "2018-05-31",
+			"public": true,
+			"country": "PL"
+		},
+		{
+			"name": "World No Tobacco Day",
+			"date": "2018-05-31",
+			"observed": "2018-05-31",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Children's Day",
+			"date": "2018-06-01",
+			"observed": "2018-06-01",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Day Without Alcohol",
+			"date": "2018-06-01",
+			"observed": "2018-06-01",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Day of Freedom and Citizens' Rights",
+			"date": "2018-06-04",
+			"observed": "2018-06-04",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Government Protection Bureau's Day",
+			"date": "2018-06-12",
+			"observed": "2018-06-12",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Military Gendarmerie's Day",
+			"date": "2018-06-13",
+			"observed": "2018-06-13",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "National Day of Remembrance of Nazi Concentration Camps Victims",
+			"date": "2018-06-14",
+			"observed": "2018-06-14",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "June Solstice",
+			"date": "2018-06-21",
+			"observed": "2018-06-21",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Kupala Night",
+			"date": "2018-06-21",
+			"observed": "2018-06-21",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Father's Day",
+			"date": "2018-06-23",
+			"observed": "2018-06-23",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Saint John's Eve",
+			"date": "2018-06-23",
+			"observed": "2018-06-23",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "National Day of Remembrance of Poznañ 1956 Protests",
+			"date": "2018-06-28",
+			"observed": "2018-06-28",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Dog's Day",
+			"date": "2018-07-01",
+			"observed": "2018-07-01",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "National Day of Remembrance of Victims of the Genocide Committed by Ukrainian Nationalists on Citizens of the Second Polish Republic",
+			"date": "2018-07-11",
+			"observed": "2018-07-11",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Police Day",
+			"date": "2018-07-24",
+			"observed": "2018-07-24",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Treasury Day",
+			"date": "2018-07-31",
+			"observed": "2018-07-31",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "National Warsaw Uprising Remembrance Day",
+			"date": "2018-08-01",
+			"observed": "2018-08-01",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Genocide Remembrance Day of the Roma and Sinti",
+			"date": "2018-08-02",
+			"observed": "2018-08-02",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Power Engineer's Day",
+			"date": "2018-08-14",
+			"observed": "2018-08-14",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Armed Forces Day",
+			"date": "2018-08-15",
+			"observed": "2018-08-15",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Assumption of Mary",
+			"date": "2018-08-15",
+			"observed": "2018-08-15",
+			"public": true,
+			"country": "PL"
+		},
+		{
+			"name": "Municipal Police's Day",
+			"date": "2018-08-29",
+			"observed": "2018-08-29",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Day of Solidarity and Freedom",
+			"date": "2018-08-31",
+			"observed": "2018-08-31",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "The Day Germany Invaded Poland in 1939",
+			"date": "2018-09-01",
+			"observed": "2018-09-01",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Veterans Day",
+			"date": "2018-09-01",
+			"observed": "2018-09-01",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Sybirak's Day",
+			"date": "2018-09-17",
+			"observed": "2018-09-17",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "The Day Russia Invaded Poland in 1939",
+			"date": "2018-09-17",
+			"observed": "2018-09-17",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Customs Service Day",
+			"date": "2018-09-21",
+			"observed": "2018-09-21",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "World Car-Free Day",
+			"date": "2018-09-22",
+			"observed": "2018-09-22",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "September Equinox",
+			"date": "2018-09-23",
+			"observed": "2018-09-23",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Polish Underground State's Day",
+			"date": "2018-09-27",
+			"observed": "2018-09-27",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Boy's Day",
+			"date": "2018-09-30",
+			"observed": "2018-09-30",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Animals' Day",
+			"date": "2018-10-04",
+			"observed": "2018-10-04",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "World Animal Day",
+			"date": "2018-10-04",
+			"observed": "2018-10-04",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Paramedics' Day",
+			"date": "2018-10-13",
+			"observed": "2018-10-13",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Teachers' Day",
+			"date": "2018-10-14",
+			"observed": "2018-10-14",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Pope John Paul II Day",
+			"date": "2018-10-16",
+			"observed": "2018-10-16",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Postman's Day",
+			"date": "2018-10-18",
+			"observed": "2018-10-18",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Mongrel's Day",
+			"date": "2018-10-25",
+			"observed": "2018-10-25",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Halloween",
+			"date": "2018-10-31",
+			"observed": "2018-10-31",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "All Saints' Day",
+			"date": "2018-11-01",
+			"observed": "2018-11-01",
+			"public": true,
+			"country": "PL"
+		},
+		{
+			"name": "Civil Service Day",
+			"date": "2018-11-11",
+			"observed": "2018-11-11",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "National Independence Day",
+			"date": "2018-11-11",
+			"observed": "2018-11-11",
+			"public": true,
+			"country": "PL"
+		},
+		{
+			"name": "Social Workers' Day",
+			"date": "2018-11-21",
+			"observed": "2018-11-21",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Saint Andrew's Day",
+			"date": "2018-11-29",
+			"observed": "2018-11-29",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Miners' Day",
+			"date": "2018-12-04",
+			"observed": "2018-12-04",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Saint Nicholas' Day",
+			"date": "2018-12-06",
+			"observed": "2018-12-06",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Martial Law Victims Remembrance Day",
+			"date": "2018-12-13",
+			"observed": "2018-12-13",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "December Solstice",
+			"date": "2018-12-21",
+			"observed": "2018-12-21",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Christmas Eve",
+			"date": "2018-12-24",
+			"observed": "2018-12-24",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Christmas Day",
+			"date": "2018-12-25",
+			"observed": "2018-12-25",
+			"public": true,
+			"country": "PL"
+		},
+		{
+			"name": "Saint Stephen's Day",
+			"date": "2018-12-26",
+			"observed": "2018-12-26",
+			"public": false,
+			"country": "PL"
+		},
+		{
+			"name": "Second Day of Christmastide",
+			"date": "2018-12-26",
+			"observed": "2018-12-26",
+			"public": true,
+			"country": "PL"
+		},
+		{
+			"name": "New Year's Eve",
+			"date": "2018-12-31",
+			"observed": "2018-12-31",
+			"public": false,
+			"country": "PL"
+		}
+	]
+}

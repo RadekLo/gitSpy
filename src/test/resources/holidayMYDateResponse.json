@@ -1,0 +1,17 @@
+{
+	"status": 200,
+	"requests": {
+		"used": 5,
+		"available": 995,
+		"resets": "2019-08-01 00:00:00"
+	},
+	"holidays": [
+		{
+			"name": "My holiday",
+			"date": "2019-07-13",
+			"observed": "2019-07-13",
+			"public": true,
+			"country": "PL"
+		}
+	]
+}
