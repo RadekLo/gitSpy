@@ -1,7 +1,7 @@
 # gitSpy
 **Description**
 Test aplication, you use it on your own responsibility.
-Program allow get all commits from all repo for specific user done in holiday in specific country.
+Program allow get all commits from all repo for specific user done in holidays from specific country.
 Use https://holidayapi.com/ for getting holidays from specific country and year.
 Commits get from gitHub.
 **Usage**
@@ -11,7 +11,7 @@ Commits get from gitHub.
 	This give you bigger requests limit.
 4. build and start as always.
 5. Testing Url for request api
- http://localhost:8080/api/commits?year=2018&country=SomeCountry(see holiday allowed countries)&gitHubUser=SomeUser
+	localhost:8080/api/commits?year=2018&country=SomeCountry(see holiday allowed countries)&gitHubUser=SomeUser
 
 Warning!
 For now create separate query to serwer gitHub for each repo for each free day, what can very fast finish with
