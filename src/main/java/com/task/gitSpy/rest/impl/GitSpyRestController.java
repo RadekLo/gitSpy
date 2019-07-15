@@ -55,7 +55,11 @@ public class GitSpyRestController implements GitSpyRestControllerIf {
 		}).readValue(new File("src\\test\\resources\\holidayMYDateResponse.json"));
 		return users;
 	}
-
+	/**
+	   * Main rest method to get all commits from all repos for holiday days from country in spoecific year
+	   * @param params must have: year=YYYY&country=Country designation (check holiday api)&gitHubUser=USER
+	   * @return GitSpyCommitsResponse
+	   */
 	@GetMapping("/commits")
 	public GitSpyCommitsResponse getCommits(@RequestParam Map<String, String> params) {
 		RestCommitRequestParam parseRequestParam = new RestCommitRequestParam(params);

@@ -7,6 +7,10 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
+
+/**
+* Class for keep one commit from one repo
+*/
 @ToString(callSuper=true, includeFieldNames=true)
 @AllArgsConstructor
 public class GitSpyCommit {

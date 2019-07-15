@@ -3,13 +3,15 @@ package com.task.gitSpy.model;
 import java.util.ArrayList;
 import java.util.List;
 
-
 import com.fasterxml.jackson.annotation.JsonProperty;
-import com.task.gitSpy.Holiday.model.Holiday;
 
 import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
+
+/**
+* Class for keep all commits from specific day from all repos
+*/
 @ToString(callSuper=true, includeFieldNames=true)
 public class GitSpyDayComits {
 	

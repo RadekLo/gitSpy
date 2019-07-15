@@ -10,6 +10,9 @@ import lombok.Getter;
 import lombok.Setter;
 import lombok.ToString;
 
+/**
+* Response class for answer from /api/commits
+*/
 @ToString(callSuper = true, includeFieldNames = true)
 public class GitSpyCommitsResponse {
 

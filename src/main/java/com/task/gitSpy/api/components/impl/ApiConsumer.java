@@ -15,6 +15,9 @@ import com.task.gitSpy.api.components.ApiConsumerIf;
 import com.task.gitSpy.model.ApiConsumerResponse;
 import com.task.gitSpy.model.QueryParams;
 
+/**
+* Class for connect to external serwice and receive response as json string and response code
+*/
 @Component
 public class ApiConsumer implements ApiConsumerIf{
 	private static final Logger log = LogManager.getLogger(ApiConsumer.class);

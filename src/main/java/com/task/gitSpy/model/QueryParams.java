@@ -5,7 +5,9 @@ import java.util.Iterator;
 import java.util.Map;
 import java.util.Map.Entry;
 
-
+/**
+* Base Class for passing multiple parameter to URL, with method to build it.
+*/
 public class QueryParams {
 
     protected Map<String, Object> params;
